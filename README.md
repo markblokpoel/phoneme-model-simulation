@@ -1,6 +1,6 @@
 # Welcome to Jupyter Lab with Scala support
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markblokpoel/scala-mybinder-template/main?urlpath=lab/tree/notebooks/welcome.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markblokpoel/phoneme-model-simulation/main?urlpath=lab/tree/notebooks/welcome.ipynb)
 
 This binder template provides Scala support in Jupyter Lab via [almond](https://almond.sh). It further adds support for [plotly-scala](https://github.com/alexarchambault/plotly-scala) and by default only includes the Scala 2.13.3 kernel.
 
